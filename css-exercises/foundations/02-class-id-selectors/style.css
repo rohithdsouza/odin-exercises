@@ -1,0 +1,19 @@
+.color {
+    background-color: hsl(30,90%,50%);
+    font-family: Verdana, sans-serif ;
+}
+
+#large {
+    font-size: 1.6em;
+}
+
+.bigger {
+    font-size: 1.3em;
+
+}
+
+#bold {
+    font-weight: bolder;
+    font-size: 1.4em;
+    background-color: hsl(120,90%,75%);
+}
