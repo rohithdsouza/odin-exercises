@@ -59,10 +59,11 @@ ul {
 
 .left-side {
   display: flex;
-
 }
 
 .right-side {
   display: flex;
   gap: 14px;
 }
+
+/* missed align items */
